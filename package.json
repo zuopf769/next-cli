@@ -1,0 +1,27 @@
+{
+  "name": "next-cli",
+  "version": "1.0.0",
+  "description": "一个神奇的脚手架工具",
+  "main": "index.js",
+  "bin": {
+    "next-cli": "bin/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuopf769/next-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuopf769/next-cli/issues"
+  },
+  "homepage": "https://github.com/zuopf769/next-cli#readme",
+  "dependencies": {
+    "@vue/cli-shared-utils": "^5.0.8",
+    "commander": "^10.0.0"
+  }
+}
