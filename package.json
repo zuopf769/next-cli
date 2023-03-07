@@ -22,6 +22,7 @@
   "homepage": "https://github.com/zuopf769/next-cli#readme",
   "dependencies": {
     "@vue/cli-shared-utils": "^5.0.8",
-    "commander": "^10.0.0"
+    "commander": "^10.0.0",
+    "inquirer": "^8.2.4"
   }
 }
